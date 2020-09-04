@@ -1,0 +1,5 @@
+This code is used to RUN all systems such as FPS FECB IFLO simultaneously.
+
+check IP address in all files /ALL_MCM/IFLO/define.h,/ALL_MCM/fecb/define.h & /ALL_MCM/FPS_MCM/define.h 
+USB Device ID in /ALL_MCM/MCM/mcmtest.c
+FPS Counts in /ALL_MCM/FPS_MCM/fps_cmd_ps.c
